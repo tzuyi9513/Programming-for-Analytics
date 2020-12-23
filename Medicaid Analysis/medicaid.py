@@ -7,7 +7,7 @@ Created on Sat Oct  3 13:27:03 2020
 """
 
 # Read csv
-airport_records = []
+
 f = open("medicaid.csv")
 content = f.read()
 
